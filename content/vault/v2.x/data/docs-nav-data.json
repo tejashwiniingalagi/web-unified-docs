@@ -2520,6 +2520,10 @@
             "path": "secrets/ldap/account-library"
           },
           {
+            "title": "Manage self-managed static roles in the GUI",
+            "path": "secrets/ldap/self-managed-static-roles"
+          },
+          {
             "title": "Cookbook",
             "routes": [
               {
