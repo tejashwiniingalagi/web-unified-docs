@@ -1943,6 +1943,15 @@
         }
       },
       {
+        "title": "LDAP static roles",
+        "path": "ui/ldap-static-roles",
+        "badge": {
+          "text": "ENT",
+          "type": "filled",
+          "color": "neutral"
+        }
+      },
+      {
         "title": "Namespaces",
         "path": "ui/namespaces",
         "badge": {
@@ -1954,15 +1963,6 @@
       {
         "title": "Onboarding checklist",
         "path": "ui/onboarding-checklist",
-        "badge": {
-          "text": "ENT",
-          "type": "filled",
-          "color": "neutral"
-        }
-      },
-      {
-        "title": "LDAP static roles",
-        "path": "ui/ldap-static-roles",
         "badge": {
           "text": "ENT",
           "type": "filled",
